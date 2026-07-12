@@ -1,5 +1,5 @@
 # 🛡️ Neeshant (sudonishant)
-### `Grade 12 Student | Security Researcher & Developer`
+### `18 Year Old | Security Researcher & Developer`
 
 Welcome to my profile! I am a cyber security enthusiast focused on identifying security gaps, automation scripting, and operating system hardening. I specialize in ethical hacking, penetration testing, and security auditing.
 
@@ -47,7 +47,7 @@ Welcome to my profile! I am a cyber security enthusiast focused on identifying s
       <pre>
 🔴 🟡 🟢 guest@sudonishant-terminal: ~
 ──────────────────────────────────────
-<b>[+] HOST:</b>      Grade 12 Student (Bihar, India)
+<b>[+] HOST:</b>      18 Year Old (Bihar, India)
 <b>[+] ROLE:</b>      Security Researcher & Ethical Hacker
 <b>[+] SYSTEM:</b>    <font color="#00ff66">ONLINE / SECURE</font>
 <b>[+] UPTIME:</b>    17 years, 8 months, 12 days
