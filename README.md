@@ -47,15 +47,8 @@
 🟦🟦🟦⬛⬛⬛⬛⬛🏽🏽🏼🏽🟩🏻🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟦🟦</pre>
           </td>
           <!-- Column 2: Terminal Details -->
-          <td valign="top" style="color: #cbd5e1; font-family: monospace; font-size: 13px; line-height: 1.4;">
-            <pre style="color: #64748b; font-size: 10px; line-height: 1.2; font-family: monospace;">
-==================================================
-  ___ _   _ ___   ___  _   _ ___ ___ _  _  _   _ ___ 
- / __| | | |   \ / _ \| \ | |_ _/ __| || |/ \ | |_ _|
- \__ \ |_| | |) | (_) |  \| || |\__ \ __ |  \| || | 
- |___/\___/|___/ \___/|_|\_|_|___|___/_||_|_|\_||_| 
-==================================================</pre>
-            <div style="margin-top: 10px;">
+          <td valign="top" style="color: #cbd5e1; font-family: monospace; font-size: 13px; line-height: 1.4; padding-top: 10px;">
+            <div>
               <span style="color: #00ff66;"><b>sudonishant@github</b></span><br>
               <span style="color: #64748b;">------------------</span><br>
               <span style="color: #64748b;">OS:</span> Linux (Kali / Ubuntu)<br>
