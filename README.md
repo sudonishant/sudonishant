@@ -2,6 +2,10 @@
 ### `18 Year Old | Security Researcher & Developer`
 
 <p align="center">
+  <img src="profile_avatar.jpg" width="250" alt="Neeshant - Hacker Avatar">
+</p>
+
+<p align="center">
   <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
 </p>
 
