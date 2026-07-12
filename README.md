@@ -1,85 +1,17 @@
 # 🛡️ Neeshant (sudonishant)
 ### `18 Year Old | Security Researcher & Developer`
 
+<p align="center">
+  <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
+</p>
+
 Welcome to my profile! I am a cyber security enthusiast focused on identifying security gaps, automation scripting, and operating system hardening. I specialize in ethical hacking, penetration testing, and security auditing.
 
 ---
 
-<table>
-  <tr>
-    <!-- Column 1: Emoji Hacker Art -->
-    <td valign="top" width="310">
-      <pre>
-🔴 🟡 🟢 PORTRAIT_RENDER.EXE
-────────────────────────
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤⬛⬛⬛🖤🟦🖤🟦🟦🟦🟦🖤⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🖤🖤⬛⬛⬛⬛⬛⬛🟦🟦🟦🟦🟦🟦🟦🖤🖤
-🟩🖤⬛⬛⬛⬛⬛⬛🖤🖤🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛🟦🟦🟦🟦🖤⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛🖤🖤🖤🖤🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛🖤🟦🖤⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛🖤🖤🖤🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🟦🟦🖤⬛⬛
-⬛⬛⬛⬛⬛🖤🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🖤⬛⬛⬛
-⬛⬛⬛⬛⬛🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🖤🖤🖤
-🟩🟩🟩🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩
-⬛⬛⬛⬛🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🖤🟩
-🖤⬛⬛🖤⬛⬛⬛⬛⬛⬛🖤🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🟩⬛
-🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🟩
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤🖤
-⬛⬛⬛⬛⬛⬛⬛🟩🏽🏽🏽🟫🟩🟩🏽🏼🏼🏽🟩⬛⬛⬛⬛⬛⬛⬛⬛🖤
-⬛⬛⬛⬛⬛⬛🖤🏼🏼🏼🏼🏼🏼🏼🏼🏼🏽🟩🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛🟩🏽🟩🖤⬛🖤🟩🏼🟩🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛🖤🏽🖤⬛⬛⬛🖤🟩🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🖤
-🟦⬛⬛⬛⬛⬛🟩🏽🏽🟩🖤🏽🏽⬛⬛⬛🖤🟩🖤⬛⬛⬛⬛⬛⬛⬛⬛🟦
-🖤⬛⬛⬛⬛⬛🏽🏼🏻🏼🏼🏼🏽🏽🟩⬛🟩🏽🟩🟩🖤⬛⬛⬛⬛⬛⬛🟦
-⬛⬛⬛⬛⬛⬛🏼🏻🏻🏻🏻🏻🏽🏻🏼⬛🟩🏽🏽🏽🟩⬛⬛⬛⬛⬛⬛🖤
-⬛⬛⬛⬛⬛⬛🏽🏼🏻🏻🏻🏼🏻🏻🏼🖤🖤🏽🏼🟩🖤⬛⬛⬛⬛⬛⬛🟩
-⬛⬛⬛⬛⬛⬛🏼🏼🏼🏽🏽🏼🏻🏻🏽🟩🖤🖤🟩🖤⬛⬛⬛⬛⬛⬛🟩🟩
-⬛⬛⬛⬛⬛⬛🏽🏻🏻🏻🏻🏼🟩🟩⬛⬛⬛🟩🟩🖤⬛⬛⬛⬛⬛⬛🟩🟦
-⬛⬛⬛⬛⬛⬛🟩🏼🏻🏻🏻🏻🏼🏼🟫⬛🖤🟩🟩⬛⬛⬛⬛⬛⬛⬛🟦🟦
-⬛⬛⬛⬛⬛⬛🖤🏼🏼🏻🏻🏻🏼🏻🏼🖤🖤🖤🖤⬛⬛⬛⬛⬛⬛⬛🖤🟦
-⬛⬛⬛⬛⬛⬛⬛🏽🏼🏼🏽🏽🟩🏼🏽⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛🟩🏼🏽🏽🏽🏼🏼🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-🟦🟦🟦⬛⬛⬛⬛⬛🏽🏽🏼🏽🟩🏻🖤⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟦🟦
-      </pre>
-    </td>
-    <!-- Column 2: Terminal Details -->
-    <td valign="top" width="500">
-      <pre>
-🔴 🟡 🟢 guest@sudonishant-terminal: ~
-──────────────────────────────────────
-<b>[+] HOST:</b>      18 Year Old (Bihar, India)
-<b>[+] ROLE:</b>      Security Researcher & Ethical Hacker
-<b>[+] SYSTEM:</b>    <font color="#00ff66">ONLINE / SECURE</font>
-<b>[+] UPTIME:</b>    17 years, 8 months, 12 days
-
-<b>[+] CAPABILITIES AUDIT:</b>
-  System Hardening : ████████████░░░░░░ 60%
-  Python Scripting : ██████████████░░░░ 70%
-  Web Pentesting   : █████████████░░░░░ 65%
-  Network Recon    : ████████████░░░░░░ 60%
-
-<b>[+] DEFENSIVE SECURITY PROJECTS:</b>
-  * <b>PyScanner</b> - Multi-threaded port scanner.
-  * <b>LogShield</b> - Automated system log parser.
-  * <b>ReconBot</b>   - OSINT details gathering utility.
-  
-  <i>(Note: All projects are for educational and
-  defensive system auditing research.)</i>
-      </pre>
-      <div align="center">
-        <table>
-          <tr>
-            <td bgcolor="#070a0e" align="center" style="padding: 10px; border: 1px dashed #00e5ff; border-radius: 4px;">
-              <b>💻 [LIVE INTERACTIVE WEB SHELL]</b><br>
-              Run commands on my live portfolio site:<br>
-              👉 <b><a href="https://sudonishant.github.io/">sudonishant.github.io</a></b>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
+### 💻 [LIVE INTERACTIVE WEB SHELL]
+Want to run commands? Try my live interactive terminal simulator at:
+👉 **[sudonishant.github.io](https://sudonishant.github.io/)**
 
 ---
 
