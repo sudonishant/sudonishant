@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <b>🎵 Profile Theme Song:</b><br>
+  <audio src="hacker_theme.mp3" controls></audio>
+</p>
+
+<p align="center">
   <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
 </p>
 
