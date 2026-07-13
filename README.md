@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>🎵 Profile Theme Song:</b><br>
-  <audio src="hacker_theme.mp3" controls></audio>
+  👉 <b><a href="https://github.com/sudonishant/sudonishant/blob/main/hacker_theme.mp3">▶️ Click Here to Play / Listen</a></b>
 </p>
 
 <p align="center">
