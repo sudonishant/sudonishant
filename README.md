@@ -4,12 +4,6 @@
 <p align="center">
   <img src="profile_avatar.png" width="250" alt="Neeshant - Hacker Avatar">
 </p>
-<html>
-
-<p align="center"> 
-  <audio src="https://raw.githubusercontent.com/sudonishant/sudonishant/main/hacker_theme.mp3" controls></audio>
-</p>
-</html>
 <p align="center">
   <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
 </p>
@@ -45,7 +39,7 @@ Want to run commands? Try my live interactive terminal simulator at:
 
 ### 📫 Secure Communication
 * 💬 Ask me about: **Web application vulnerabilities, basic Python scripting, and Linux configuration.**
-* 📧 Email: You can contact me via my secure GitHub-provided email: `302756519+sudonishant@users.noreply.github.com`
+* 📧 Email: You can contact me via my secure GitHub-provided email: `nee@neeshant@online`
 * 🎮 Discord: `sudonishant`
 * 💼 LinkedIn: `nishant-kumar-423870291`
 
