@@ -4,12 +4,12 @@
 <p align="center">
   <img src="profile_avatar.png" width="250" alt="Neeshant - Hacker Avatar">
 </p>
+<html>
 
-<p align="center">
-  <b>🎵 Profile Theme Song:</b><br>
+<p align="center"> 
   <audio src="https://raw.githubusercontent.com/sudonishant/sudonishant/main/hacker_theme.mp3" controls></audio>
 </p>
-
+</html>
 <p align="center">
   <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
 </p>
