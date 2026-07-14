@@ -18,6 +18,15 @@ Want to run commands? Try my live interactive terminal simulator at:
 
 ---
 
+### 📈 GitHub Telemetry & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudonishant&amp;show_icons=true&amp;theme=tokyonight" alt="Neeshant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonishant&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages Stats" />
+</p>
+
+---
+
 ### 🛠️ Technical Toolkit
 
 #### 💻 Languages & Scripting
