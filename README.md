@@ -1,91 +1,99 @@
-# 🛡️ Neeshant (sudonishant)
-### `18 Year Old | Security Researcher, Systems Builder & Developer`
+<div align="center">
 
-<p align="center">
-  <img src="profile_avatar.png" width="220" alt="Neeshant - Hacker Avatar">
-</p>
+  <img src="profile_avatar.png" width="220" alt="Neeshant - Hacker Avatar" style="border-radius: 50%;">
 
-<p align="center">
-  <a href="https://neeshant.is-a.dev">
-    <img src="https://img.shields.io/badge/Official_Domain-neeshant.is--a.dev-00ff66?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Official Domain">
-  </a>
-  <a href="https://github.com/sudonishant">
-    <img src="https://img.shields.io/badge/GitHub-sudonishant-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/nishant-kumar-423870291">
-    <img src="https://img.shields.io/badge/LinkedIn-Nishant_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+  # 🛡️ Neeshant (sudonishant)
+  ### `Security Researcher | Systems Architect | Software Engineer`
 
-<p align="center">
-  <img src="hacker_console.svg" width="800" alt="Hacker Console Simulation">
-</p>
+  <p>
+    <a href="https://neeshant.is-a.dev">
+      <img src="https://img.shields.io/badge/Official_Site-neeshant.is--a.dev-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Official Domain">
+    </a>
+    <a href="https://github.com/sudonishant">
+      <img src="https://img.shields.io/badge/GitHub-sudonishant-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
+    </a>
+    <a href="https://linkedin.com/in/nishant-kumar-423870291">
+      <img src="https://img.shields.io/badge/LinkedIn-Nishant_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
+    </a>
+    <a href="mailto:sudonishant@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sudonishant%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email">
+    </a>
+  </p>
 
-Welcome to my digital headquarters! I am a cybersecurity analyst and systems developer focused on vulnerability discovery, threat intelligence, hardware encryption, AI trust infrastructure, and Linux kernel hardening.
+  <img src="hacker_console.svg" width="850" alt="Hacker Console Simulation">
 
----
-
-### 💻 🌐 [LIVE INTERACTIVE macOS TUI PORTFOLIO]
-Experience my interactive macOS terminal simulation portfolio live on the web:  
-👉 **[https://neeshant.is-a.dev](https://neeshant.is-a.dev/)**
+</div>
 
 ---
 
-### 🚀 Featured Projects & Innovations
+### 🌐 About Me
 
-| Project | Description | Live Subdomain / Link |
-| :--- | :--- | :--- |
-| **🛡️ SatarkPay** | Real-time AI-enabled UPI & banking scam prevention engine before PIN entry *(IIT Delhi Raksham 2026)* | [satarkpay.neeshant.is-a.dev](https://satarkpay.neeshant.is-a.dev) |
-| **⚔️ Sudo-Spandr** | Next-Gen Cyber Sentinel & Military VPN Command Center *(SIH Problem Statement #26160)* | [spandr.neeshant.is-a.dev](https://spandr.neeshant.is-a.dev) |
-| **👁️ OmniDetect AI** | Full-Stack Media Forensics & Deepfake Detection Platform with ELA pixel-tamper checks | [omnidetect.neeshant.is-a.dev](https://omnidetect.neeshant.is-a.dev) |
-| **🎙️ VoxTrace** | AI Trust Infrastructure for Voice & Digital Evidence verification and forensics | [voxtrace.neeshant.is-a.dev](https://voxtrace.neeshant.is-a.dev) |
-| **⚡ AirLink** | P2P real-time WebRTC file and telemetry streaming suite | [airlink.neeshant.is-a.dev](https://airlink.neeshant.is-a.dev) |
-| **🥁 Air Draw & Drums** | Gesture recognition synthesizer & virtual drum kit powered by MediaPipe Hands | [airdraw.neeshant.is-a.dev](https://airdraw.neeshant.is-a.dev) |
-| **🔍 AegisEye Forensics** | Python OSINT & forensics toolkit with DoD 5220.22-M military-grade file shredder | [aegiseye.neeshant.is-a.dev](https://aegiseye.neeshant.is-a.dev) |
-| **📡 AetherSense** | 3D WiFi Volumetric Occupancy Grid Radar & Spatial Telemetry with Three.js WebGL viewport | [aethersense.neeshant.is-a.dev](https://aethersense.neeshant.is-a.dev) |
-| **🔒 CryptoShield Vault** | Hardware-level AES-256 USB Encryption Vault with OpenCV facial recognition 2FA | [cryptoshield.neeshant.is-a.dev](https://cryptoshield.neeshant.is-a.dev) |
-| **📅 JEE 2027 Planner** | Real-time collaborative JEE study planner with chapter analytics and FCM alerts | [jeeplan.neeshant.is-a.dev](https://jeeplan.neeshant.is-a.dev) |
+I am an 18-year-old **Cybersecurity Analyst & Systems Developer** dedicated to defensive security research, digital forensics, operating system hardening, and resilient cross-platform software engineering. 
+
+- 🔭 **Active Research:** AI trust architecture, real-time scam mitigation workflows, and digital media forensics.
+- 📱 **Mobile & Software Engineering:** Crafting modern, high-performance apps with **Flutter & Dart**.
+- 🛠️ **Systems & Automation:** Kernel-level networking, OSINT toolkits, and automation in Python, Go, and C++.
+- 🚀 **Live Interactive Web Shell & Portfolio:** Explore my custom macOS terminal interface at **[neeshant.is-a.dev](https://neeshant.is-a.dev/)**.
 
 ---
 
-### 📈 GitHub Telemetry & Stats
+### ⚡ Core Competencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudonishant&amp;show_icons=true&amp;theme=tokyonight" alt="Neeshant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonishant&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages Stats" />
+```
+[+] Offensive & Defensive Security: Web App Penetration Testing, Threat Modeling, ELA Forensics
+[+] Cross-Platform Mobile Dev:      Flutter, Dart, Provider / Bloc State Management, Native Bridges
+[+] Backend & Infrastructure:       Go, Python microservices, WebSockets, REST & tRPC, Docker
+[+] Low-Level & OS Systems:         Linux Kernel Hardening, Bash Scripting, Memory Safety, C++
+```
+
+---
+
+### 🛠️ Technical Stack & Tooling
+
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+#### 🛡️ Cybersecurity, Auditing & Forensics
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-276DC3?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-121011?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 📊 GitHub Telemetry
 
-#### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/Bash_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🛡️ Cybersecurity, Auditing & Systems
-![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudonishant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Neeshant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonishant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages Stats" />
+</div>
 
 ---
 
 ### 📫 Connect & Secure Communication
-* 🌐 **Portfolio & Web Shell:** [https://neeshant.is-a.dev](https://neeshant.is-a.dev)
-* 📧 **Email:** [sudonishant@gmail.com](mailto:sudonishant@gmail.com)
-* 🎮 **Discord:** `sudonishant`
-* 💼 **LinkedIn:** [Nishant Kumar](https://linkedin.com/in/nishant-kumar-423870291)
-* 💬 **Ask me about:** OSINT, Web Application Security, Linux hardening, MediaPipe, and Automation Scripting.
+
+- 🌐 **Interactive Portfolio:** [https://neeshant.is-a.dev](https://neeshant.is-a.dev)
+- 📧 **Direct Email:** [sudonishant@gmail.com](mailto:sudonishant@gmail.com)
+- 💼 **LinkedIn:** [Nishant Kumar](https://linkedin.com/in/nishant-kumar-423870291)
+- 🎮 **Discord:** `sudonishant`
+- 💬 **Ask me about:** Penetration Testing, Flutter App Architecture, OSINT, Linux Hardening, and Malware/Scam Triage.
 
 ---
 
-> ⚠️ **Disclaimer:** All repositories, configurations, and tools shared on this profile are created strictly for **educational purposes, defensive security auditing, and authorized testing**. I do not condone, promote, or participate in any form of unauthorized access or malicious hacking activities.
+<div align="center">
+  <sub>⚠️ <b>Disclaimer:</b> All configurations, security tools, and code published under this profile are strictly intended for educational purposes, defensive auditing, and authorized security assessments. Unauthorized or malicious use is strictly discouraged and condemned.</sub>
+</div>
