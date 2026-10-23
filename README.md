@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://neeshant.online">
-      <img src="https://img.shields.io/badge/Official_Site-neeshant.is--a.dev-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Official Domain">
+      <img src="https://img.shields.io/badge/Official_Site-neeshant.online-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Official Domain">
     </a>
     <a href="https://github.com/sudonishant">
       <img src="https://img.shields.io/badge/GitHub-sudonishant-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
