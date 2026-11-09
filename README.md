@@ -1,49 +1,49 @@
-      <div align="center">
+<div align="center">
+  <img src="profile_avatar.png" width="220" alt="Neeshant profile avatar" style="border-radius: 50%;">
 
-  <img src="profile_avatar.png" width="220" alt="Neeshant - Hacker Avatar" style="border-radius: 50%;">
-  
   # 🛡️ Neeshant (sudonishant)
-  ### `Security Researcher | Systems Architect | Software Engineer`
+  ### `Cybersecurity Researcher | Systems Developer`
+
+  <p>Building defensive security tools, resilient systems, and practical cross-platform software.</p>
 
   <p>
-    <a href="https://neeshant.online">
-      <img src="https://img.shields.io/badge/Official_Site-neeshant.online-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Official Domain">
+    <a href="https://www.neeshant.online/">
+      <img src="https://img.shields.io/badge/Portfolio-neeshant.online-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://github.com/sudonishant">
-      <img src="https://img.shields.io/badge/GitHub-sudonishant-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-sudonishant-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://linkedin.com/in/nishant-kumar-423870291">
-      <img src="https://img.shields.io/badge/LinkedIn-Nishant_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Nishant_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:sudonishant@gmail.com">
-      <img src="https://img.shields.io/badge/Email-sudonishant%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
 
-  <img src="hacker_console.svg" width="850" alt="Hacker Console Simulation">
-
+  <img src="hacker_console.svg" width="850" alt="Cybersecurity-themed terminal artwork">
 </div>
 
 ---
 
 ### 🌐 About Me
 
-I am an 18-year-old **Cybersecurity Analyst & Systems Developer** dedicated to defensive security research, digital forensics, operating system hardening, and resilient cross-platform software engineering. 
+I’m a cybersecurity researcher and software developer focused on defensive security, digital forensics, Linux hardening, and practical cross-platform applications.
 
-- 🔭 **Active Research:** AI trust architecture, real-time scam mitigation workflows, and digital media forensics.
-- 📱 **Mobile & Software Engineering:** Crafting modern, high-performance apps with **Flutter & Dart**.
-- 🛠️ **Systems & Automation:** Kernel-level networking, OSINT toolkits, and automation in Python, Go, and C++.
-- 🚀 **Live Interactive Web Shell & Portfolio:** Explore my custom macOS terminal interface at **[neeshant.is-a.dev](https://neeshant.is-a.dev/)**.
+- 🔭 **Areas of interest:** AI trust and safety, scam-prevention workflows, and digital-media forensics.
+- 📱 **App development:** Building cross-platform applications with Flutter and Dart.
+- 🛠️ **Systems and automation:** Linux, OSINT tooling, and automation with Python, Go, Bash, and C++.
+- 🚀 **Portfolio:** Visit [neeshant.online](https://www.neeshant.online/) or explore my [interactive terminal project](https://neeshant.is-a.dev/).
 
 ---
 
 ### ⚡ Core Competencies
 
-```
-[+] Offensive & Defensive Security: Web App Penetration Testing, Threat Modeling, ELA Forensics
-[+] Cross-Platform Mobile Dev:      Flutter, Dart, Provider / Bloc State Management, Native Bridges
-[+] Backend & Infrastructure:       Go, Python microservices, WebSockets, REST & tRPC, Docker
-[+] Low-Level & OS Systems:         Linux Kernel Hardening, Bash Scripting, Memory Safety, C++
+```text
+[+] Security Research:       Authorized testing, threat modeling, defensive security
+[+] Digital Investigations:  OSINT, scam triage, digital-media forensics
+[+] Cross-Platform Apps:     Flutter, Dart, state management, native integrations
+[+] Systems & Automation:    Linux hardening, Python, Go, Bash, C++
 ```
 
 ---
@@ -51,26 +51,28 @@ I am an 18-year-old **Cybersecurity Analyst & Systems Developer** dedicated to d
 ### 🛠️ Technical Stack & Tooling
 
 #### 💻 Languages & Frameworks
+
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
 
-#### 🛡️ Cybersecurity, Auditing & Forensics
+#### 🛡️ Security, Systems & Tooling
+
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-276DC3?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-121011?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-276DC3?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Metasploit-121011?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -78,22 +80,23 @@ I am an 18-year-old **Cybersecurity Analyst & Systems Developer** dedicated to d
 ### 📊 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudonishant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Neeshant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonishant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudonishant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Neeshant's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudonishant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most-used languages">
 </div>
 
 ---
 
 ### 📫 Connect & Secure Communication
 
-- 🌐 **Interactive Portfolio:** [https://neeshant.is-a.dev](https://neeshant.is-a.dev)
-- 📧 **Direct Email:** [sudonishant@gmail.com](mailto:sudonishant@gmail.com)
+- 🌐 **Portfolio:** [neeshant.online](https://www.neeshant.online/)
+- 🖥️ **Interactive terminal:** [neeshant.is-a.dev](https://neeshant.is-a.dev/)
+- 📧 **Email:** [sudonishant@gmail.com](mailto:sudonishant@gmail.com)
 - 💼 **LinkedIn:** [Nishant Kumar](https://linkedin.com/in/nishant-kumar-423870291)
 - 🎮 **Discord:** `sudonishant`
-- 💬 **Ask me about:** Penetration Testing, Flutter App Architecture, OSINT, Linux Hardening, and Malware/Scam Triage.
+- 💬 **Ask me about:** Defensive security, Flutter app architecture, OSINT, Linux hardening, and scam triage.
 
 ---
 
 <div align="center">
-  <sub>⚠️ <b>Disclaimer:</b> All configurations, security tools, and code published under this profile are strictly intended for educational purposes, defensive auditing, and authorized security assessments. Unauthorized or malicious use is strictly discouraged and condemned.</sub>
+  <sub>Security tools and examples are intended for educational use, defensive auditing, and authorized security assessments. Unauthorized or malicious use is not supported.</sub>
 </div>
