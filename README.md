@@ -26,6 +26,18 @@
 
 ---
 
+## What this repository contains
+
+This repository is the source for the `sudonishant` GitHub profile README. It is a static profile page rather than an application or security toolkit: there is no executable source code, package manifest, service configuration, or automated test suite here. The committed files are the README and the visual/audio assets it references (`profile_avatar.png`, `hacker_console.svg`, and `hacker_theme.mp3`).
+
+The terminal artwork is a fictional, defensive-themed visual for the profile page; its on-screen output is not a runnable scan, exploit, or proof of activity. Any security work described below should be understood as subject to authorization and applicable law.
+
+### Preview locally
+
+No build step is required. From the repository root, open `README.md` in a Markdown viewer that permits local images, or preview it with GitHub after publishing the branch. The external portfolio, interactive-terminal, badge, and telemetry links require network access and are not part of this repository.
+
+There are currently no environment variables, setup commands, runtime entry points, or automated tests to configure or run.
+
 ### 🌐 About Me
 
 I’m a cybersecurity researcher and software developer focused on defensive security, digital forensics, Linux hardening, and practical cross-platform applications.
