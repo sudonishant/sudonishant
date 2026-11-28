@@ -86,6 +86,16 @@ I’m a cybersecurity researcher and software developer focused on defensive sec
 
 ---
 
+### 🤝 Open Source Security Contributions
+
+- [osquery/osquery#9308](https://github.com/osquery/osquery/pull/9308) — Guard `importSourceSubmodule()` against duplicate imports on case-insensitive filesystems
+- [NVIDIA/garak#2536](https://github.com/NVIDIA/garak/pull/2536) — Re-raise original `HTTPError` / `ParserError` in `load_advbench()`
+- [bridgecrewio/checkov#7878](https://github.com/bridgecrewio/checkov/pull/7878) — Sanitize and deduplicate package `SPDXID`s in SPDX SBOM output
+- [volatilityfoundation/volatility3#2115](https://github.com/volatilityfoundation/volatility3/pull/2115) — Honor `--max-size` in `VadYaraScan` and `VmaYaraScan`
+- [fortra/impacket#2396](https://github.com/fortra/impacket/pull/2396) — Reject DNS compression pointers targeting the 12-byte header
+
+---
+
 ### 📫 Connect & Secure Communication
 
 - 🌐 **Portfolio:** [neeshant.online](https://www.neeshant.online/)
